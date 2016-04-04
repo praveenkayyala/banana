@@ -12,7 +12,7 @@ Feature: Registration
 
     Examples:
       | Gender | Firstname | Lastname | Day | Month | Year | Email      | Newsletters | Companyname | password | Confirmpassword | Message                     |
-      | male   | rayen     | bond     | 12  | january | 1957 | @gmail.com | true        | tesco       | tesco123 | tesco123        | Your registration completed |
+      | male   | ranjith  | bond     | 12  | january | 1957 | @gmail.com | true        | tesco       | tesco123 | tesco123        | Your registration completed |
       | male   | run       | walk     | 16  | febravary  | 1987 | @gmail.com | fales       | runwalk     | run123   | run123          | Your registration completed |
 
 
